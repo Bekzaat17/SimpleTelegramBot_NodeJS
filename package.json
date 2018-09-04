@@ -1,0 +1,17 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bekzat T",
+  "license": "ISC",
+  "description": ""
+}
